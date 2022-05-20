@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-id80%^4vo=h(m74dp@c!jszoe2-+2soq)79$y8$#$agxq&ps#_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['skart-ecomweb-backend.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
